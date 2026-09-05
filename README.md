@@ -1,5 +1,5 @@
 # 1C-Infobase
-1C infobase that implements managment system of amusement park
+1C infobase that implements a management system for an amusement park
 
 1C конфигурация для автоматизации деятельности парка развлечений (разработано в рамках демонстрационного экзамена)
 
